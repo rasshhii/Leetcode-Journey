@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Just a place where i keep track of my Leetcode solutions and learn something new with every problem.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
