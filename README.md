@@ -13,6 +13,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rasshhii/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rasshhii/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rasshhii/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rasshhii/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rasshhii/Leetcode-Journey/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
