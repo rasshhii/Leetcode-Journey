@@ -48,6 +48,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rasshhii/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rasshhii/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/rasshhii/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/1140-stone-game-ii) |
+| [3903-smallest-stable-index-i](https://github.com/rasshhii/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Nim Game
 |  |
 | ------- |
