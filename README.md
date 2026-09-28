@@ -42,6 +42,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [1260-shift-2d-grid](https://github.com/rasshhii/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/rasshhii/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rasshhii/Leetcode-Journey/tree/master/1406-stone-game-iii) |
+| [1929-concatenation-of-array](https://github.com/rasshhii/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rasshhii/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasshhii/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rasshhii/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -58,6 +59,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rasshhii/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/rasshhii/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
