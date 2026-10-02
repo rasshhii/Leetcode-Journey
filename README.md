@@ -18,6 +18,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/rasshhii/Leetcode-Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rasshhii/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -65,6 +66,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/rasshhii/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rasshhii/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/1140-stone-game-ii) |
@@ -135,6 +137,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -184,5 +187,6 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
