@@ -24,6 +24,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [0678-valid-parenthesis-string](https://github.com/rasshhii/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rasshhii/Leetcode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/rasshhii/Leetcode-Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rasshhii/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -197,6 +198,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [0678-valid-parenthesis-string](https://github.com/rasshhii/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rasshhii/Leetcode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -207,5 +209,6 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [0678-valid-parenthesis-string](https://github.com/rasshhii/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rasshhii/Leetcode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
