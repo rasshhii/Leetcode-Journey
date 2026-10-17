@@ -57,6 +57,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rasshhii/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasshhii/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rasshhii/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rasshhii/Leetcode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rasshhii/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rasshhii/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -116,12 +117,14 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rasshhii/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rasshhii/Leetcode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rasshhii/Leetcode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rasshhii/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rasshhii/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rasshhii/Leetcode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/rasshhii/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
