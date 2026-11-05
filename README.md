@@ -49,6 +49,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rasshhii/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/rasshhii/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rasshhii/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -130,6 +131,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rasshhii/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rasshhii/Leetcode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -169,6 +171,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rasshhii/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rasshhii/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
