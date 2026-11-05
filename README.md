@@ -56,6 +56,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [1260-shift-2d-grid](https://github.com/rasshhii/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/rasshhii/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rasshhii/Leetcode-Journey/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/rasshhii/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rasshhii/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/rasshhii/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rasshhii/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -173,6 +174,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/rasshhii/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/rasshhii/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Nim Game
 |  |
