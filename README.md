@@ -30,6 +30,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rasshhii/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/rasshhii/Leetcode-Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rasshhii/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rasshhii/Leetcode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rasshhii/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rasshhii/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rasshhii/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -79,6 +80,7 @@ Just a place where i keep track of my Leetcode solutions and learn something new
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rasshhii/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/rasshhii/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rasshhii/Leetcode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
